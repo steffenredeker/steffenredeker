@@ -3,9 +3,9 @@ name: "my-website"
 navbar:
   title: "My Website"
   left:
-    - text: "home"
+    - text: "Home"
       href: index.html
-    - text: "about"
+    - text: "About"
       href: about.html
 ---
 
